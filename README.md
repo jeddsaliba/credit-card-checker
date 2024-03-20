@@ -1,4 +1,4 @@
-# Laravel CRUD
+# Credit Card Checker
 
 This project was generated with [Laravel](https://laravel.com/).
 
